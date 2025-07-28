@@ -6,7 +6,7 @@ import win32com.client as win32
 
 # === CONFIGURAÇÕES ===
 # Caminho dos arquivos
-arquivo_base = "Planilha de Conciliação Mercedes - R008. dt.xlsx"
+arquivo_base = "Planilha de Análise Centro de Custo. dt.xlsx"
 arquivo_cc = "Centro de Custo.xlsx"
 
 # Pasta de saída dos PDFs
