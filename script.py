@@ -2,13 +2,13 @@ import os
 import requests
 
 # Defina o caminho onde você quer salvar as imagens
-caminho_pasta = r"E:\SBA\imagens_baixadas"
+caminho_pasta = r"E:\fotos\imagens_baixadas"
 
 # Crie a pasta, se ela não existir
 os.makedirs(caminho_pasta, exist_ok=True)
 
 # Caminho para o arquivo de links
-arquivo_links = r"E:\SBA\links.txt"
+arquivo_links = r"E:\fotos\links.txt"
 
 # Abra e leia o arquivo com os links
 with open(arquivo_links, 'r') as file:
