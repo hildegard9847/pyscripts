@@ -1,0 +1,4 @@
+Biblioteca:
+pip install pandas openpyxl pywin32
+comand:
+python gerar_pdfs.py
